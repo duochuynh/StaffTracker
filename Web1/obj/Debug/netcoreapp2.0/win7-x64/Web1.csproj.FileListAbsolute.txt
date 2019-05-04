@@ -1,0 +1,28 @@
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.exe
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.deps.json
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.runtimeconfig.json
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.runtimeconfig.dev.json
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.pdb
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.csproj.CoreCompileInputs.cache
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.AssemblyInfoInputs.cache
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.AssemblyInfo.cs
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.pdb
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.csprojResolveAssemblyReference.cache
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.exe
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.deps.json
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.runtimeconfig.json
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.runtimeconfig.dev.json
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.dll
+C:\Application7\Application7\Web1\bin\Debug\netcoreapp2.0\win7-x64\Web1.pdb
+C:\Application7\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.csprojAssemblyReference.cache
+C:\Application7\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.csproj.CoreCompileInputs.cache
+C:\Application7\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.AssemblyInfoInputs.cache
+C:\Application7\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.AssemblyInfo.cs
+C:\Application7\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.dll
+C:\Application7\Application7\Web1\obj\Debug\netcoreapp2.0\win7-x64\Web1.pdb
